@@ -10,8 +10,6 @@ ReBin: Recycle Your Bin, aims to address waste management challenges in Indonesi
 
 ## Our Team
 
-## Our Team
-
 | No  | Member ID    | Name                       | Institution                             | Learning Path           | 
 |-----|--------------|----------------------------|-----------------------------------------|-------------------------|
 | 1   | M124D4KX1516 | Kartika Deviani            | Politeknik Harapan Bersama              | Machine Learning        | 
