@@ -10,13 +10,18 @@ ReBin: Recycle Your Bin, aims to address waste management challenges in Indonesi
 
 ## Our Team
 
-1. M124D4KX1516 – Kartika Deviani – Politeknik Harapan Bersama
-2. M232D4KY2952 – Patrick Ulysses – Universitas Katolik Parahyangan
-3. M232D4KX2774 – Sherrine Tania – Universitas Katolik Parahyangan
-4. C299D4KX0723 – Mutia Istiqomah – Universitas Pendidikan Indonesia
-5. C299D4KX0532 – Ghalda Azzahra Dwitami – Universitas Pendidikan Indonesia
-6. A124D4KY4222 – Avriansyah Bahtiar – Politeknik Harapan Bersama
-7. A132D4KY4274 – Orry Frasetyo – Politeknik Negeri Padang
+## Our Team
+
+| No  | Member ID    | Name                       | Institution                             | Learning Path           | 
+|-----|--------------|----------------------------|-----------------------------------------|-------------------------|
+| 1   | M124D4KX1516 | Kartika Deviani            | Politeknik Harapan Bersama              | Machine Learning        | 
+| 2   | M232D4KY2952 | Patrick Ulysses            | Universitas Katolik Parahyangan         | Machine Learning        |
+| 3   | M232D4KX2774 | Sherrine Tania             | Universitas Katolik Parahyangan         | Machine Learning        | 
+| 4   | C299D4KX0723 | Mutia Istiqomah            | Universitas Pendidikan Indonesia        | Cloud Computing         | 
+| 5   | C299D4KX0532 | Ghalda Azzahra Dwitami     | Universitas Pendidikan Indonesia        | Cloud Computing         | 
+| 6   | A124D4KY4222 | Avriansyah Bahtiar         | Politeknik Harapan Bersama              | Mobile Development      | 
+| 7   | A132D4KY4274 | Orry Frasetyo              | Politeknik Negeri Padang                | Mobile Development      | 
+
 
 ## Repository
 
