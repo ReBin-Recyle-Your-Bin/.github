@@ -2,7 +2,8 @@
 
 # ReBin: Recycle Your Bin
 
-This application was developed by Team C241-PS016 as part of the Bangkit Academy Capstone Project.
+This application was developed by Team C241-PS016 as part of the Bangkit Academy Capstone Project. <br>
+![ReBin App UI](assets/rebinAppsUI.jpg)
 
 ## Description
 
